@@ -1,0 +1,8 @@
+*.FCStd binary
+*.3mf binary
+*.stl binary
+*.step binary
+*.png binary
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf

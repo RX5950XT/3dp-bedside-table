@@ -1,0 +1,21 @@
+{
+  "shelf": {
+    "size_mm": [
+      200.0,
+      250.0,
+      94.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "closed": true,
+    "volume_mm3": 433867.57250765414
+  },
+  "rib_count": 4,
+  "rib_max_depth_mm": 50.0,
+  "board_interference_mm3": 0.0,
+  "rigid_gap_mm": 28.900000000000006,
+  "shelf_mesh": {
+    "facets": 13948,
+    "solid": true
+  }
+}

@@ -1,0 +1,22 @@
+# Local notes and reversible organization audit
+/CONTEXT.md
+/tasks/
+/organization-manifest.json
+
+# Retained prior revisions and FreeCAD backups
+**/archive/
+*.FCBak
+
+# Local Python cache
+__pycache__/
+*.py[cod]
+
+# Bambu Studio local slice byproducts. The self-contained 3MF is tracked.
+manufacturing/**/plate_*.gcode
+manufacturing/**/command.json
+manufacturing/**/console.log
+manufacturing/**/resolved_settings.json
+manufacturing/**/machine.json
+manufacturing/**/process.json
+manufacturing/**/filament.json
+manufacturing/**/result.json
