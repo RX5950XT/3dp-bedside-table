@@ -32,7 +32,7 @@ FreeCAD 重建腳本會更新 `models/BedsideShelf.FCStd`，並產生 STL、STEP
 ![目前模型等角預覽](previews/current/isometric_v3.png)
 
 - 4 圈牆、預設 15% gyroid，支撐關閉；預估 341.6 g、11 小時 18 分。
-- 尚未實印；裝配公差、1.5 kg 承重及長期蠕變均未驗證，不能視為已認證承重。
+- 已實際列印驗證：裝配公差非常剛好（28.9 mm 夾槽適配 28.7 mm 床板，總間隙 0.2 mm 密合度良好）。長期承重與蠕變可持續觀察。
 
 ## 授權
 
